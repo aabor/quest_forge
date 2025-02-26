@@ -1,5 +1,4 @@
-# quest_forge
-QuestForge: MindMaze Chronicles
+# QuestForge: MindMaze Chronicles
 
 Welcome to QuestForge: MindMaze Chronicles, a mind-bending quest where logic is your greatest weapon.
 
